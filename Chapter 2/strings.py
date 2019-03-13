@@ -1,3 +1,4 @@
+
 #* Strings
 # A string is a series of characters
 # Anything inside quotes is condifered a string
@@ -11,4 +12,3 @@
 "The language 'Python' is named after Monty Python, not the snake."
 "One of Python's strengths is its diverse and supportive community."
 
-#*
