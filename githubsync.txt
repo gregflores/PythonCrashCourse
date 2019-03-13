@@ -1,5 +1,0 @@
-github
-gist token
-sync settings
-
-52fb7ea3c65d06680e37b3e56bb6d2bf5e71be6e
