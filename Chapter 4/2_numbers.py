@@ -48,3 +48,17 @@ print(sum(digits))
 # A list comprehension combines the for loop and the creation of new elements into one line and automatically append each new element
 squares = [value**2 for value in range(1,11)]
 print(squares)
+
+million = [value for value in range(1,1000001)]
+print(max(million))
+print(min(million))
+print(sum(million))
+#print(million)
+#odds = []
+#for value in range(1,10001,2):
+for value in range(3,30,3):
+    print(value)
+cubes = []
+for value in range(1,11):
+    cubes.append(value**3)
+print(cubes)
