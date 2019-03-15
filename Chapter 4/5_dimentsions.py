@@ -38,4 +38,3 @@ print("\nModifed dimensions:")
 for dimension in dimensions:
     print(dimension)
 # We define the original tuple and prints the initial dimensions. We then store a new tuple in the variable dimensions and print. No errors because overwriting a variable is valid
-dim = (1,2,3,4,5)
