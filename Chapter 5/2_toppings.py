@@ -10,4 +10,8 @@ if requested_topping != 'anchovies':
 #  The if statement compares the value of requested_topping to the value
 #  'anchovies'. If these two values do not match, Python returns True
 #  and executes the code following the if statement. 
-#! PAGE 78
+
+#* Numerical Comparison
+# The following code checks whether a person is 18 yeats old
+age = 18
+print(age == 18)
