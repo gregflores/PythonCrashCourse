@@ -16,8 +16,10 @@ user_0 = {
 for key, value in user_0.items():
     print("\nKey: " + key)
     print("Value: " + value)
-# To write a for loop for a dict, you create names for the two vars that will hold the key and value in each pair
-# You can choose any names for these vars
-# The second half of the for loop includes the name of the dict followed by the method items(), which returns a list of key-value pairs.
-# Values don't have to be returned in the order they were stored
-# Looping through all key-value pairs works particularly well for dicts which store similar information for many different keys
+# To write a for loop for a dict, you create names for the two vars that
+# will hold the key and value in each pair You can choose any names for
+# these vars The second half of the for loop includes the name of the
+# dict followed by the method items(), which returns a list of key-value
+# pairs.  Values don't have to be returned in the order they were stored
+# Looping through all key-value pairs works particularly well for dicts
+# which store similar information for many different keys
